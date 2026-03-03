@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dd-trace": "^5.87.0",
     "express": "^5.2.1"
   }
 }

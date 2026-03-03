@@ -1,3 +1,9 @@
+
+require('dd-trace').init({
+  service: 'zuperior-api',
+  env: 'production',
+});
+
 const express = require("express");
 const app = express();
 
